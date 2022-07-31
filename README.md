@@ -14,5 +14,7 @@
 - docker-compose 1.21.0
 
 В `Dockerfile` прописать `UID` (если не 1000)
+
 requirements.txt - пакеты python
+
 sys_requirements.txt - системные бибилиотеки, которые должны быть в контейнере, и которые могут понадобиться отдельным пакетам python
