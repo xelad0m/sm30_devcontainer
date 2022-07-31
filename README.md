@@ -1,4 +1,4 @@
-### Настроенный devcontainer для VS Code для решения задачи ML/NLP/CV на GPU sm30
+### Настроенный devcontainer для VS Code для решения задач ML/NLP/CV на GPU sm30
 
 На основе:
 - [VS Code Remote / GitHub Codespaces Container Definitions](https://github.com/microsoft/vscode-dev-containers)
