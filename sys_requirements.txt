@@ -1,0 +1,13 @@
+sudo
+build-essential
+cmake
+git
+curl
+wget
+unzip
+openssh-server
+nano
+pkg-config
+libcairo2-dev 
+libjpeg-dev 
+libgif-dev
