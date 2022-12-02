@@ -12,8 +12,7 @@
 
 Проверим работоспособность:
 
-`docker run -it --rm --gpus all sm30`
-`-> python -c "import torch; print(torch.rand(5).cuda())"`
+`docker run --rm --gpus all sm30 python -c "import torch; print(torch.rand(5).cuda())"`
 
 ### Детали 
 
